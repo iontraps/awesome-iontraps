@@ -40,19 +40,19 @@ _Viewports and vacuum windows_
 
 _Free-space and fiber-coupled acusto-optic modulators (AOMS)_
 
-* [IntraAction](https://intraaction.com/) - Great free-space AOMs with horrible customer service
+* [IntraAction](https://intraaction.com/) - Free-space AOMs at all wavelength
 
 ## Cavity Coatings
 
 _High-reflectivity and low-loss cavity mirror coatings_
 
-* [FiveNine](https://www.fivenineoptics.com/) - Best coatings by Ramin Lalezari, the person behind Advanced Thin Films
+* [FiveNine](https://www.fivenineoptics.com/) - Coatings by Ramin Lalezari, the person behind Advanced Thin Films
 
 ## Superpolished Mirrors
 
 _Superpolished mirror substrates for high-finesse cavities_
 
-* [Coastline Optics](http://www.coastlineoptics.com/) - For the very best scattering losses, send your mirrors there
+* [Coastline Optics](http://www.coastlineoptics.com/) - Superpolished mirrors made with longstanding experience
 * [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
 
 ## Other Awesome Lists
