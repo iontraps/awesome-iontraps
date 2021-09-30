@@ -14,6 +14,8 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 * [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
 * [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
 * [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
+* [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
+* [Superpolished Mirrors](https://github.com/iontraps/awesome-iontraps#superpolished-mirrors)
 
 ## Control Electronics
 
@@ -38,3 +40,16 @@ _Viewports and vacuum windows_
 _Free-space and fiber-coupled acusto-optic modulators (AOMS)_
 
 * [IntraAction](https://intraaction.com/) - Great free-space AOMs with horrible customer service
+
+## Cavity Coatings
+
+_High-reflectivity and low-loss cavity mirror coatings_
+
+* [FiveNine](https://www.fivenineoptics.com/) - Best coatings by Ramin Lalezari, the person behind Advanced Thin Films
+
+## Superpolished Mirrors
+
+_Superpolished mirror substrates for high-finesse cavities_
+
+* [Coastline Optics](http://www.coastlineoptics.com/) - For the very best scattering losses, send your mirrors there
+* [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
