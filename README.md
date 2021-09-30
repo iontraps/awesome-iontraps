@@ -12,6 +12,7 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
 * [Atom Source](https://github.com/iontraps/awesome-iontraps#atom-source)
+* [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
 
 ## Control Electronics
 
@@ -24,3 +25,9 @@ _Control electronics and hardware for iontraps_
 _Ovens for iontraps_
 
 * [alfavakuo](https://alfavakuo.eu/products/mvs/) - Metal vapour sources sealed with an Indium foil
+
+## Viewports
+
+_Viewports and vacuum windows_
+
+* [MPF](https://mpfpi.com/) - Viewports in all sizes with custom coatings
