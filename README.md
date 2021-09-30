@@ -16,6 +16,7 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 * [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
 * [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
 * [Superpolished Mirrors](https://github.com/iontraps/awesome-iontraps#superpolished-mirrors)
+* [Other Awesome Lists](https://github.com/iontraps/awesome-iontraps#other-awesome-lists)
 
 ## Control Electronics
 
@@ -53,3 +54,9 @@ _Superpolished mirror substrates for high-finesse cavities_
 
 * [Coastline Optics](http://www.coastlineoptics.com/) - For the very best scattering losses, send your mirrors there
 * [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
+
+## Other Awesome Lists
+
+_More collections of awesome things for iontraps_
+
+* [Doyle Group Vendor List](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List) - The open wiki of the Doyle group
