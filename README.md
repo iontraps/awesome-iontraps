@@ -12,7 +12,6 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
 * [Atom Source](https://github.com/iontraps/awesome-iontraps#atom-source)
-* [Vendor List](https://github.com/iontraps/awesome-iontraps#vendor-list)
 
 ## Control Electronics
 
@@ -25,9 +24,3 @@ _Control electronics and hardware for iontraps_
 _Ovens for iontraps_
 
 * [alfavakuo](https://alfavakuo.eu/products/mvs/) - Metal vapour sources sealed with an Indium foil
-
-## Vendor List
-
-_Companies selling awesome products_
-
-* [Doyle Group Vendor List](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List) - An open list of vendors from the Doyle wiki
