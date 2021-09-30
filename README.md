@@ -11,8 +11,9 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
-* [Atom Source](https://github.com/iontraps/awesome-iontraps#atom-source)
+* [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
 * [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
+* [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
 
 ## Control Electronics
 
@@ -20,7 +21,7 @@ _Control electronics and hardware for iontraps_
 
 * [Sinara](https://sinara-hw.github.io/) - An open-source hardware ecosystem for quantum physics experiments
 
-## Atom Source
+## Atom Sources
 
 _Ovens for iontraps_
 
@@ -31,3 +32,9 @@ _Ovens for iontraps_
 _Viewports and vacuum windows_
 
 * [MPF](https://mpfpi.com/) - Viewports in all sizes with custom coatings
+
+## Acusto-optic Modulators
+
+_Free-space and fiber-coupled acusto-optic modulators (AOMS)_
+
+* [IntraAction](https://intraaction.com/) - Great free-space AOMs with horrible customer service
