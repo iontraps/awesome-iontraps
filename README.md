@@ -11,6 +11,7 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
+* [Atom Source](https://github.com/iontraps/awesome-iontraps#atom-source)
 * [Vendor List](https://github.com/iontraps/awesome-iontraps#vendor-list)
 
 ## Control Electronics
@@ -18,6 +19,12 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 _Control electronics and hardware for iontraps_
 
 * [Sinara](https://sinara-hw.github.io/) - An open-source hardware ecosystem for quantum physics experiments
+
+## Atom Source
+
+_Ovens for iontraps_
+
+* [alfavakuo](https://alfavakuo.eu/products/mvs/) - Metal vapour sources sealed with an Indium foil
 
 ## Vendor List
 
