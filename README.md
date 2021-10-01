@@ -11,7 +11,9 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
+* [Ion pumps](https://github.com/iontraps/awesome-iontraps#ion-pumps)
 * [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
+* [Hardware](https://github.com/iontraps/awesome-iontraps#hardware)
 * [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
 * [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
 * [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
@@ -26,7 +28,7 @@ _Control electronics and hardware for iontraps_
 
 ## Ion pumps
 
-* [SAES Getters](https://www.saesgetters.com/products-functions/products/neg-pumps%26vacuum-solutions) - NEG and ion vacuum pumps
+* [SAES Getters](https://www.saesgetters.com/products-functions) - NEG and ion vacuum pumps
 
 ## Atom Sources
 
