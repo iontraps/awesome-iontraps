@@ -11,7 +11,9 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 
 [awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
 * [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
+* [Ion pumps](https://github.com/iontraps/awesome-iontraps#ion-pumps)
 * [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
+* [Hardware](https://github.com/iontraps/awesome-iontraps#hardware)
 * [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
 * [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
 * [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
@@ -24,17 +26,28 @@ _Control electronics and hardware for iontraps_
 
 * [Sinara](https://sinara-hw.github.io/) - An open-source hardware ecosystem for quantum physics experiments
 
+## Ion pumps
+
+* [SAES Getters](https://www.saesgetters.com/products-functions) - NEG and ion vacuum pumps
+
 ## Atom Sources
 
 _Ovens for iontraps_
 
 * [alfavakuo](https://alfavakuo.eu/products/mvs/) - Metal vapour sources sealed with an Indium foil
 
+## Hardware
+
+* [Ideal Vacuum](https://www.idealvac.com/) - vacuum components
+* [LewVac](https://www.lewvac.co.uk/) - vacuum components
+* [VACOM](http://www.vacom-shop.de/epages/VacomShop.sf/en_GB/?utm_source=homepage&utm_medium=headnavilink&utm_campaign=shop) - vacuum components
+
 ## Viewports
 
 _Viewports and vacuum windows_
 
 * [MPF](https://mpfpi.com/) - Viewports in all sizes with custom coatings
+* [Torr Scientific](https://torrscientific.co.uk/) - viewports and other vacuum optics
 
 ## Acusto-optic Modulators
 
