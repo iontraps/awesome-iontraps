@@ -25,6 +25,7 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 _Control electronics and hardware for iontraps_
 
 * [Sinara](https://sinara-hw.github.io/) - An open-source hardware ecosystem for quantum physics experiments
+* [Stahl-Electronics](https://www.stahl-electronics.com/) - various electronics for ion traps and cryo
 
 ## Ion pumps
 
