@@ -5,7 +5,11 @@ A curated list of awesome things for iontraps
 
 ## Contributing
 
-Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss generally awesome (or aweful) things for iontraps. If you would like to add a link to this readme, please open a pull request.
+If you have a question about iontraps, feel free to open a new [discussion](https://github.com/iontraps/awesome-iontraps/discussions). 
+
+If you would like to add a link, please open a [pull request](https://github.com/iontraps/awesome-iontraps/pulls). 
+
+Join us on Slack with this [invitation link](https://join.slack.com/t/iontraps/shared_invite/zt-wivcgsty-BOXHuirgnMFtmvmAFQQpQw).
 
 ## Contents
 
