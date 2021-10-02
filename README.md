@@ -18,6 +18,7 @@ Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss
 * [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
 * [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
 * [Superpolished Mirrors](https://github.com/iontraps/awesome-iontraps#superpolished-mirrors)
+* [Software](https://github.com/iontraps/awesome-iontraps#software)
 * [Other Awesome Lists](https://github.com/iontraps/awesome-iontraps#other-awesome-lists)
 
 ## Control Electronics
@@ -67,6 +68,19 @@ _Superpolished mirror substrates for high-finesse cavities_
 
 * [Coastline Optics](http://www.coastlineoptics.com/) - Superpolished mirrors made with longstanding experience
 * [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
+
+## Software
+
+_Numerical simulations of QIP and trapped ion physics_
+
+* [QuTiP](https://qutip.org/) - Quantum Toolbox in Python
+* [QuantumOptics.jl](https://qojulia.org/) - A Julia framework for Open Quantum Dynamics - Innsbruck
+* [IonSim.jl](https://www.ionsim.org/) - A lightweight Julia package for simulating the dynamics of a configuration of trapped ions interacting with laser light - UC Berkeley
+* [ion_phys](https://github.com/OxfordIonTrapGroup/ion_phys) - Optical transition properties of common ion species, still in early stage - Oxford group
+* [(py)LIon](https://bitbucket.org/dtrypogeorgos/pylion/src/master/) - A set of tools to setup and analyse molecular dynamics simulations of trapped ions powered by LAMMPS - Oxford group ([arxiv paper](https://arxiv.org/abs/1907.10514))
+* [pyLCP](https://github.com/JQIamo/pylcp) - Laser cooling physics with auto-generated OBE - JQI ([arxiv paper](https://arxiv.org/pdf/2011.07979.pdf))
+* [AtomECS](https://github.com/TeamAtomECS/AtomECS/) - Laser cooling simulations - Oxford group ([arxiv paper](https://arxiv.org/abs/2105.06447))
+
 
 ## Other Awesome Lists
 
