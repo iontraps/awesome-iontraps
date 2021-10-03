@@ -4,6 +4,21 @@ A curated list of awesome things for iontraps
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--ts-->
+* [awesome-iontraps](#awesome-iontraps)
+   * [Contributing](#contributing)
+   * [Control Electronics](#control-electronics)
+   * [Ion pumps](#ion-pumps)
+   * [Atom Sources](#atom-sources)
+   * [Hardware](#hardware)
+   * [Viewports](#viewports)
+   * [Acusto-optic Modulators](#acusto-optic-modulators)
+   * [Cavity Coatings](#cavity-coatings)
+   * [Superpolished Mirrors](#superpolished-mirrors)
+   * [Software](#software)
+   * [Other Awesome Lists](#other-awesome-lists)
+
+<!-- Added by: runner, at: Sun Oct  3 08:47:02 UTC 2021 -->
+
 <!--te-->
 
 ## Contributing
