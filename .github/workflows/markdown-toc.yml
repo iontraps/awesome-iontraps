@@ -11,6 +11,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
       - run: |
           curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/17ec017/gh-md-toc -o gh-md-toc
           chmod a+x gh-md-toc
