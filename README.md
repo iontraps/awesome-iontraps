@@ -3,23 +3,27 @@ A curated list of awesome things for iontraps
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--ts-->
+* [awesome-iontraps](#awesome-iontraps)
+   * [Contributing](#contributing)
+   * [Control Electronics](#control-electronics)
+   * [Ion pumps](#ion-pumps)
+   * [Atom Sources](#atom-sources)
+   * [Hardware](#hardware)
+   * [Viewports](#viewports)
+   * [Acusto-optic Modulators](#acusto-optic-modulators)
+   * [Cavity Coatings](#cavity-coatings)
+   * [Superpolished Mirrors](#superpolished-mirrors)
+   * [Software](#software)
+   * [Other Awesome Lists](#other-awesome-lists)
+
+<!-- Added by: runner, at: Tue Oct  5 19:05:43 UTC 2021 -->
+
+<!--te-->
+
 ## Contributing
 
 Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss generally awesome (or aweful) things for iontraps. If you would like to add a link to this readme, please open a pull request.
-
-## Contents
-
-[awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
-* [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
-* [Ion pumps](https://github.com/iontraps/awesome-iontraps#ion-pumps)
-* [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
-* [Hardware](https://github.com/iontraps/awesome-iontraps#hardware)
-* [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
-* [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
-* [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
-* [Superpolished Mirrors](https://github.com/iontraps/awesome-iontraps#superpolished-mirrors)
-* [Software](https://github.com/iontraps/awesome-iontraps#software)
-* [Other Awesome Lists](https://github.com/iontraps/awesome-iontraps#other-awesome-lists)
 
 ## Control Electronics
 
