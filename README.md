@@ -96,3 +96,4 @@ _Numerical simulations of QIP and trapped ion physics_
 _More collections of awesome things for iontraps_
 
 * [Doyle Group Vendor List](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List) - The open wiki of the Doyle group
+* [List of Open Quantum Projects](https://qosf.org/project_list/)
