@@ -51,6 +51,7 @@ _Ovens for iontraps_
 * [Ideal Vacuum](https://www.idealvac.com/) - vacuum components
 * [LewVac](https://www.lewvac.co.uk/) - vacuum components
 * [VACOM](http://www.vacom-shop.de/epages/VacomShop.sf/en_GB/?utm_source=homepage&utm_medium=headnavilink&utm_campaign=shop) - vacuum components
+* [Exair](https://www.exair.com/products/static-eliminators.html) air static eliminators
 
 ## Viewports
 
