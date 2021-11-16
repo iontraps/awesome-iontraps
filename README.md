@@ -17,7 +17,7 @@ A curated list of awesome things for iontraps
    * [Software](#software)
    * [Other Awesome Lists](#other-awesome-lists)
 
-<!-- Added by: runner, at: Tue Oct  5 19:05:43 UTC 2021 -->
+<!-- Added by: runner, at: Tue Oct 19 11:09:40 UTC 2021 -->
 
 <!--te-->
 
@@ -27,7 +27,7 @@ If you have a question about iontraps, feel free to open a new [discussion](http
 
 If you would like to add a link, please open a [pull request](https://github.com/iontraps/awesome-iontraps/pulls). 
 
-Join us on Slack with this [invitation link](https://join.slack.com/t/iontraps/shared_invite/zt-wivcgsty-BOXHuirgnMFtmvmAFQQpQw).
+Join us on Slack with this invitation link: https://iontraps.github.io/slack.
 
 ## Control Electronics
 
