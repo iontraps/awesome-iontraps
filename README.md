@@ -80,7 +80,7 @@ _Superpolished mirror substrates for high-finesse cavities_
 * [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
 
 ## Software
-
+### Theory
 _Numerical simulations of QIP and trapped ion physics_
 
 * [QuTiP](https://qutip.org/) - Quantum Toolbox in Python
@@ -91,6 +91,10 @@ _Numerical simulations of QIP and trapped ion physics_
 * [pyLCP](https://github.com/JQIamo/pylcp) - Laser cooling physics with auto-generated OBE - JQI ([arxiv paper](https://arxiv.org/pdf/2011.07979.pdf))
 * [AtomECS](https://github.com/TeamAtomECS/AtomECS/) - Laser cooling simulations - Oxford group ([arxiv paper](https://arxiv.org/abs/2105.06447))
 
+### Experiment
+_Device drivers and lab control_
+
+* [Instrumental](https://github.com/mabuchilab/Instrumental) - Python-based instrumentation library from the Mabuchi Lab
 
 ## Other Awesome Lists
 
