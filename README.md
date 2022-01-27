@@ -15,9 +15,11 @@ A curated list of awesome things for iontraps
    * [Cavity Coatings](#cavity-coatings)
    * [Superpolished Mirrors](#superpolished-mirrors)
    * [Software](#software)
+      * [Theory](#theory)
+      * [Experiment](#experiment)
    * [Other Awesome Lists](#other-awesome-lists)
 
-<!-- Added by: runner, at: Tue Nov 16 20:59:32 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 27 16:41:56 UTC 2022 -->
 
 <!--te-->
 
