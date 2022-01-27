@@ -15,9 +15,11 @@ A curated list of awesome things for iontraps
    * [Cavity Coatings](#cavity-coatings)
    * [Superpolished Mirrors](#superpolished-mirrors)
    * [Software](#software)
+      * [Theory](#theory)
+      * [Experiment](#experiment)
    * [Other Awesome Lists](#other-awesome-lists)
 
-<!-- Added by: runner, at: Tue Nov 16 20:59:32 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 27 16:41:56 UTC 2022 -->
 
 <!--te-->
 
@@ -80,7 +82,7 @@ _Superpolished mirror substrates for high-finesse cavities_
 * [Perkins Precision](https://www.perkinsprecision.com/) - Custom optics with angstrom-level surface roughness
 
 ## Software
-
+### Theory
 _Numerical simulations of QIP and trapped ion physics_
 
 * [QuTiP](https://qutip.org/) - Quantum Toolbox in Python
@@ -91,6 +93,10 @@ _Numerical simulations of QIP and trapped ion physics_
 * [pyLCP](https://github.com/JQIamo/pylcp) - Laser cooling physics with auto-generated OBE - JQI ([arxiv paper](https://arxiv.org/pdf/2011.07979.pdf))
 * [AtomECS](https://github.com/TeamAtomECS/AtomECS/) - Laser cooling simulations - Oxford group ([arxiv paper](https://arxiv.org/abs/2105.06447))
 
+### Experiment
+_Device drivers and lab control_
+
+* [Instrumental](https://github.com/mabuchilab/Instrumental) - Python-based instrumentation library from the Mabuchi Lab
 
 ## Other Awesome Lists
 
