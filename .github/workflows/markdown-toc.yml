@@ -1,9 +1,9 @@
 name: Markdown TOC
 
 on:
-  pull_request:
-    paths:
-      - README.md
+  push:
+    branches:
+      - main
 
 jobs:
   build:
